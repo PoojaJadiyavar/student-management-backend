@@ -57,7 +57,7 @@ student-management-backend/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/soujanya1007/student-management-backend.git
+git clone https://github.com/PoojaJadiyavar/student-management-backend.git
 ```
 
 2. Navigate to project folder:
